@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71b34bf2-b839-46c9-99d4-328619f7b346" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YeNCpdqfEEIgwvmZB6JOTrnoN2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Test3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71b34bf2-b839-46c9-99d4-328619f7b346" name="Default Changelist" comment="" />
+      <created>1583298974982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583298974982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583390467185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583390467185" />
+    <state width="931" height="176" key="GridCell.Tab.0.bottom" timestamp="1583394760808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="931" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583394760808" />
+    <state width="931" height="176" key="GridCell.Tab.0.center" timestamp="1583394760807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="931" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583394760807" />
+    <state width="931" height="176" key="GridCell.Tab.0.left" timestamp="1583394760807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="931" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583394760807" />
+    <state width="931" height="176" key="GridCell.Tab.0.right" timestamp="1583394760808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="931" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583394760808" />
+    <state x="65" y="0" key="new project wizard" timestamp="1583571161850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583571161850" />
+    <state x="549" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583302944223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583302944223" />
+  </component>
+</project>
